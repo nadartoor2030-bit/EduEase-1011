@@ -1,7 +1,7 @@
 # EduEase-1011
-# Mochi – Stress Management & Study Companion
+# EduEase – Stress Management & Study Companion
 
-Mochi is an AI-powered web application that combines education and mental well-being into one platform. It is designed to help students study more effectively while also managing stress through interactive wellness tools.
+EduEase is an AI-powered web application that combines education and mental well-being into one platform. It is designed to help students study more effectively while also managing stress through interactive wellness tools.
 
 Instead of treating academics and mental health as separate problems, Mochi provides both learning assistance and self-care features in one place.
 
